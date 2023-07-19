@@ -1,0 +1,1 @@
+import{o as n,E as r}from"./entry.cbb1488f.js";const s=["innerHTML"],a={__name:"Titular",props:{title:String},setup(t){const e=t;return(o,i)=>(n(),r("h2",{class:"libre text-49px text-gris-400 leading-61px",innerHTML:e.title},null,8,s))}};export{a as default};
