@@ -1,0 +1,1 @@
+import{o as r,E as n}from"./entry.8a1eaa5a.js";const o=["innerHTML"],p={__name:"Parrafo",props:{text:String},setup(t){const e=t;return(s,a)=>(r(),n("p",{class:"libre text-16px leading-22px text-gris-400",innerHTML:e.text},null,8,o))}};export{p as default};
